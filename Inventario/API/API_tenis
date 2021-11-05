@@ -1,0 +1,131 @@
+{
+    "Tenis":[
+        {
+        "id": 1,
+        "Marca": "Adidas",
+        "Modelo": "Forum 84 low",
+        "Precio": "$ 459.990"
+
+        },
+        {
+        "id": 2,
+        "Marca": "Adidas",
+        "Modelo": "RETROPY E5",
+        "Precio": "$ 500.000"
+        },
+        {
+        "id": 3,
+        "Marca": "Adidas",
+        "Modelo": "Forum 84 HI",
+        "Precio": "$ 700.000"
+        },
+        {
+        "id": 4,
+        "Marca": "Adidas",
+        "Modelo": "Fluid flow 2.0",
+        "Precio": "$ 379.990"
+        },
+        {
+        "id": 5,
+        "Marca": "Adidas",
+        "Modelo": "CT86",
+        "Precio": "$ 399.990"
+        },
+        {
+        "id": 6,
+        "Marca": "Adidas",
+        "Modelo": "Donovan Mitchell D.O.N Issue",
+        "Precio": "$ 529.000"
+        },
+        {
+        "id": 7,
+        "Marca": "Adidas",
+        "Modelo": "Run Falcon 2.0",
+        "Precio": "$ 279.990"
+        },
+        {
+        "id": 8,
+        "Marca": "Adidas",
+        "Modelo": "Ultraboost 21",
+        "Precio": "$ 799.990"
+        },
+        {
+        "id": 9,
+        "Marca": "Adidas",
+        "Modelo": "Stan Smith DIsney Monsters, Inc",
+        "Precio": "$ 400.000"
+        },
+        {
+        "id": 10,
+        "Marca": "Adidas",
+        "Modelo": "COURT80S",
+        "Precio": "$ 279.990"
+        },
+        {
+        "id": 11,
+        "Marca": "Nike",
+        "Modelo": "Air Max Excee",
+        "Precio": "$ 272.000"
+        },
+        {
+        "id": 12,
+        "Marca": "Nike",
+        "Modelo": "Air Max 270 React",
+        "Precio": "$ 470.000"
+        },
+        {
+        "id": 13,
+        "Marca": "Nike",
+        "Modelo": "Wearallday",
+        "Precio": "$ 250.000"
+        },
+        {
+        "id": 14,
+        "Marca": "Nike",
+        "Modelo": "Running React Miler",
+        "Precio": "$ 385.000"
+        },
+        {
+        "id": 15,
+        "Marca": "Nike",
+        "Modelo": "Air Max Fusion",
+        "Precio": "$ 231.000"
+        },
+        {
+        "id": 16,
+        "Marca": "Nike",
+        "Modelo": "Court Vision Low",
+        "Precio": "$ 168.000"
+        },
+        {
+        "id": 17,
+        "Marca": "Nike",
+        "Modelo": "Running Downshifter 10",
+        "Precio": "$ 200.000"
+        },
+        {
+        "id": 18,
+        "Marca": "Nike",
+        "Modelo": "Air Max 90",
+        "Precio": "$ 470.000"
+        },
+        {
+        "id": 19,
+        "Marca": "Nike",
+        "Modelo": "Air Max 2 Light",
+        "Precio": "$ 255.000"
+        },
+        {
+        "id": 20,
+        "Marca": "Nike",
+        "Modelo": "Mercurial Superfly 7 Club Tf",
+        "Precio": "$ 220.000"
+        },
+        {
+        "id": 21,
+        "Marca": "Nike",
+        "Modelo": "Air Max 270 React",
+        "Precio": "$ 470.000"
+        }
+    ]
+}
