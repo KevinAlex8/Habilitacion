@@ -1,0 +1,70 @@
+    body {
+        background-color: #bdd1ff;
+    }
+    #cajaUno {
+        height: 80px;
+        margin: 20px;
+        border: 2px solid;
+        border-color: #6e99fb;
+        background-color: #79a8e1;
+        text-align: center;
+    }
+    h1{
+        color: #000000;
+    }
+    #cajaFormulario{
+        
+        width: 800px;
+        height: 500px;
+        background-color: #6e99fb;
+        text-align: center;
+        margin: 0 auto;
+        border: 3px solid
+
+    }
+    form {
+        margin: 0 auto;
+        width: 700px;
+
+        padding: 1em;
+        border: 1px solid black;
+        border-radius: 1em;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    } 
+    form li + li {
+        margin-top: 1em;
+    }  
+    label {
+        display: inline-block;
+        width: 220px;
+        text-align: left;
+        font-style: italic;
+    }  
+    input,
+    textarea {
+        font: 1em sans-serif;
+
+        width: 300px;
+        box-sizing: border-box;
+
+        border: 1px solid black;
+    }
+    input:focus,
+    textarea:focus {
+        /* Destacado adicional para elementos que tienen el cursor */
+        border-color: #000;
+    }   
+    .button {
+        /* Alinear los botones con los campos de texto */
+        padding-left: 90px; /* mismo tamaño que los elementos de la etiqueta */
+    }
+      
+    button {
+        /* Este margen adicional representa aproximadamente el mismo espacio que el espacio
+           entre las etiquetas y sus campos de texto */
+        margin-left: .5em;
+    }
